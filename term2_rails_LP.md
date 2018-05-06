@@ -58,7 +58,8 @@
 - Create home page
 - profile page
 - upload picture
-- like and comment
+- like and comments
+- search
 - followers
 
 
